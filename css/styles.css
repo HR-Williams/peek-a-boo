@@ -1,0 +1,30 @@
+#walrus-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#dog-showing {
+  display: none;
+}
+
+.appear {
+  cursor: pointer;
+  color: rgb(236, 49, 49);
+}
+
+#el-showing {
+  display: none;
+}
+
+.here {
+  cursor: pointer;
+  color: lightgreen;
+}
